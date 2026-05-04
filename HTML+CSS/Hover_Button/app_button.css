@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(1, 1, 39);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+button{
+    background-color: rgb(11, 1, 23);
+    color:bisque;
+    border: solid bisque 2px;
+    padding: 1em 2em;
+    font-size: 1.5em;
+    transition: color 0.25s, border-color 0.25s, box-shadow 0.25s,  transform 0.25s ;
+}
+button:hover{
+    border-color:goldenrod;
+    color: goldenrod;
+    box-shadow: goldenrod 0 0.7em 0.7em -0.4em;	
+    cursor: pointer;
+    transform: translateY(-0.25em) ;
+}
