@@ -30,11 +30,6 @@ This repo tracks my hands-on practice as I learn web development from scratch.
 - [x] JavaScript - Functions (Basics)
 - [x] JavaScript - Loops
 
-### In Progress / Advanced Topics
-- [ ] JavaScript - Callbacks & Array Methods
-- [ ] DOM Manipulation
-- [ ] Async/Await & Promises
-
 ## Language Composition
 
 - JavaScript: 43.4%
