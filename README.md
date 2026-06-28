@@ -9,7 +9,8 @@ Web_Dev_Practice/
 ├── HTML+CSS/                              # HTML & CSS exercises and practice
 └── JavaScript/                            # JavaScript topics
     ├── Arrays/                            # Array methods and operations
-    ├── DOM/                               # Document Object Model manipulation
+    ├── DOM/                               # Document Object Model manipulation (general)
+    ├── DOM_Events/                        # DOM event handling exercises
     ├── Functions/                         # Function basics and declarations
     ├── Functions-Callbacks_and_Array_methods/  # Advanced functions and array methods
     ├── Loops/                             # Loop structures (for, while, etc.)
@@ -37,5 +38,3 @@ This repo tracks my hands-on practice as I learn web development from scratch.
 - JavaScript: 51.3%
 - CSS: 31.1%
 - HTML: 17.6%
-
-```
