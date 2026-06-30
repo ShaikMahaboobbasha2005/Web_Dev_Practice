@@ -6,8 +6,8 @@ const randColor = () => {
     const b = Math.floor(Math.random()* 255)
     return `rgb(${r},${g},${b})`
 }
-btn.addEventListener('click',function(){
-    const newColor = randColor()
+btn.addEventListener('click',function(){   
+const newColor = randColor()
     document.body.style.backgroundColor = newColor
-    h1.innerText = newColor
+    h1.innerText = newColor   
 })
